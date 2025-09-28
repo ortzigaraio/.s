@@ -2,13 +2,19 @@ title: "Ortzi Garaio Portfolio"
 description: "Portfolio de proyectos de Data Science y Machine Learning"
 author: "Ortzi"
 email: "Ortzi@egmail.com"
-theme: jekyll-theme-cayman  # puedes cambiarlo por 'minimal', 'hacker', etc.
+
+theme: jekyll-theme-minimal
 url: "https://ortzixd.github.io"  # o tu dominio si lo configuras
 github_username: ortzigaraio
 
+
+logo: /assets/img/profile.png   # si subes una foto a esa ruta
 # Configuración opcional
 show_downloads: false
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+
+
+
