@@ -11,10 +11,7 @@ github_username: ortzigaraio
 logo: /assets/img/profile.png   # si subes una foto a esa ruta
 # Configuración opcional
 show_downloads: false
-markdown: kramdown
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
+
 
 
 
