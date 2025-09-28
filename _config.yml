@@ -1,4 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
+logo: /assests/img/ophoto.png
+description: Tecnico informatico
 plugins: jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Ortzi Garaio
 description: [Portfolio]
+show_downloads: true
