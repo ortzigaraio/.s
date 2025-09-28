@@ -1,17 +1,32 @@
-# Data Scientist
+# 👨‍💻 Data Scientist Portfolio
 
-### PData Scientist
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-Education
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
-Work Experience
-Data Scientist @ Toyota Financial Services (June 2022 - Present)
+Bienvenido a mi portfolio.  
+Soy **OrtziXD**, apasionado de la **Ciencia de Datos, Machine Learning y Visualización**.  
+En este repositorio encontrarás mis proyectos destacados.
 
-Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
+---
 
-Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## 🚀 Sobre mí
+- 📊 Data Scientist con experiencia en **Python, R y SQL**  
+- 🤖 Modelado predictivo, NLP y redes neuronales  
+- 📈 Visualización con **Matplotlib, Seaborn, Plotly y Power BI**  
+- ☁️ Experiencia en **AWS y Google Cloud**  
+
+---
+
+## 📂 Proyectos destacados
+- **[Análisis de sentimiento en Twitter](./projects/twitter-sentiment/)**  
+  NLP con Python y transformers de Hugging Face.  
+
+- **[Predicción de precios de casas](./projects/house-prices/)**  
+  Modelos de regresión con scikit-learn.  
+
+- **[Dashboard interactivo en Streamlit](./projects/streamlit-dashboard/)**  
+  Visualización de KPIs en tiempo real.  
+
+---
+
+## 📫 Contacto
+- GitHub: [@ortzixd](https://github.com/ortzixd)  
+- LinkedIn: [linkedin.com/in/ortzixd](https://linkedin.com/in/ortzixd)  
+- Email: tuemail@example.com  
