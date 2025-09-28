@@ -1,7 +1,14 @@
-remote_theme: pages-themes/minimal@v0.2.0
-logo: /assests/img/ophoto.png
-description: Tecnico informatico
-plugins: jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Ortzi Garaio
-description: [Portfolio]
-show_downloads: true
+title: "Ortzi Garaio Portfolio"
+description: "Portfolio de proyectos de Data Science y Machine Learning"
+author: "Ortzi"
+email: "Ortzi@egmail.com"
+theme: jekyll-theme-cayman  # puedes cambiarlo por 'minimal', 'hacker', etc.
+url: "https://ortzixd.github.io"  # o tu dominio si lo configuras
+github_username: ortzigaraio
+
+# Configuración opcional
+show_downloads: false
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
