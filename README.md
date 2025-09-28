@@ -1,7 +1,7 @@
 # 👨‍💻 Data Scientist Portfolio
 
 Bienvenido a mi portfolio.  
-Soy **OrtziXD**, apasionado de la **Ciencia de Datos, Machine Learning y Visualización**.  
+Soy **Ortzi Garaio**, apasionado de la **Ciencia de Datos, Machine Learning y Visualización**.  
 En este repositorio encontrarás mis proyectos destacados.
 
 ---
@@ -10,7 +10,7 @@ En este repositorio encontrarás mis proyectos destacados.
 - 📊 Data Scientist con experiencia en **Python, R y SQL**  
 - 🤖 Modelado predictivo, NLP y redes neuronales  
 - 📈 Visualización con **Matplotlib, Seaborn, Plotly y Power BI**  
-- ☁️ Experiencia en **AWS y Google Cloud**  
+- ☁️ Experiencia en **AWS**  
 
 ---
 
@@ -27,6 +27,6 @@ En este repositorio encontrarás mis proyectos destacados.
 ---
 
 ## 📫 Contacto
-- GitHub: [@ortzixd](https://github.com/ortzixd)  
-- LinkedIn: [linkedin.com/in/ortzixd](https://linkedin.com/in/ortzixd)  
-- Email: tuemail@example.com  
+- GitHub: [@ortzigaraio](https://github.com/ortzigaraio)  
+- LinkedIn: [linkedin.com/in/ortzi](https://linkedin.com/in/ortzixd)  
+- Email: Ortzigar@gmail.com  
