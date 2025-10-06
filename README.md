@@ -3,6 +3,7 @@
 Bienvenido a mi portfolio.  
 Soy **Ortzi Garaio**, apasionado de la **Ciencia de Datos, Machine Learning y Visualización**.  
 En este repositorio encontrarás mis proyectos destacados.
+<img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
 
 ---
 
