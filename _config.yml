@@ -10,7 +10,8 @@ github_username: ortzigaraio
 
 logo: foto_perfil_cv.png  # si subes una foto a esa ruta
 
-
+include:
+  - assets/css/style.css
 show_downloads: false
 
 
