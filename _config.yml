@@ -8,7 +8,7 @@ theme: jekyll-theme-minimal
 github_username: ortzigaraio
 
 
-logo: /assets/img/profile.png   # si subes una foto a esa ruta
+logo: foto_perfil_cv.png   # si subes una foto a esa ruta
 # Configuración opcional
 show_downloads: false
 
