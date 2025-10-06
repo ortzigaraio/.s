@@ -9,11 +9,7 @@ github_username: ortzigaraio
 
 
 logo: foto_perfil_cv.png  # si subes una foto a esa ruta
-    img_ancho_p: 2
-    img_alto_p: 1
-    img_ancho_g: 1
-    img_alto_g: 768
-    
+
 show_downloads: false
 
 
