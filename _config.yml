@@ -9,6 +9,7 @@ github_username: ortzigaraio
 
 
 logo: foto_perfil_cv.png  # si subes una foto a esa ruta
+<img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
 
 show_downloads: false
 
