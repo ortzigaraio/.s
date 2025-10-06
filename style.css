@@ -1,1 +1,5 @@
 
+img[alt="Mi Portafolio"] {
+  width: 120px;   /* cambia el tamaño según necesites */
+  height: auto;
+}
